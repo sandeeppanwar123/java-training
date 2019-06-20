@@ -2,7 +2,7 @@ package java8.functional;
 
 import java.util.List;
 import java.util.function.Predicate;
-
+// Use of functional interface
 public class SumNumbers{
 
 
