@@ -4,52 +4,17 @@
     <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collection.java" line="185" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3810763c-2689-4d62-bb57-277200f7a96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/concurrency/LiftOff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/concurrency/RunnableExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/concurrency/SharedObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/concurrency/ThreadExtend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/experiment/ExpressionEvaluation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java8/LambdaExample1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java8/functional/CalculateInterest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java8/functional/Calculation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java8/functional/InterestCalculationPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/java8/functional/SumNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/DescreteMathsExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/HashSetExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/LinkedListExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/MapExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/VectorExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/collection/collection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/enums/Plannet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/inheritance/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/inheritance/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/inheritance/Dog$Lebra.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/inheritance/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/inheritance/TestAnimals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/synchronize/SharedObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/synchronize/Thread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/synchronize/Thread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/synchronize/ThreadExecute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/java-training-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/LambdaExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/LambdaExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/functional/InterestCalculationPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/functional/InterestCalculationPredicate.java" afterDir="false" />
+    <list default="true" id="3810763c-2689-4d62-bb57-277200f7a96c" name="Default Changelist" comment="added more exp">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/java8/LambdaExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/java8/LambdaExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -104,10 +69,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/LambdaExample1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="278">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,19 +81,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/intellij/IntellijExperiments.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/SharedObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="187">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/intellij/IntellijExperimentsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="13">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -139,8 +122,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -194,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/main/java/java8/LambdaExample1.java" />
         <option value="$PROJECT_DIR$/src/main/java/intellij/IntellijExperiments.java" />
         <option value="$PROJECT_DIR$/src/test/java/intellij/IntellijExperimentsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -218,7 +202,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-training" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -259,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Encoding">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="ArraysExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data.structure.ArraysExamples" />
       <module name="java-training.main" />
@@ -273,8 +306,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
+      <module name="java-training.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encoding" />
+      <option name="MAIN_CLASS_NAME" value="unsolved.Encoding" />
       <module name="java-training.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -293,21 +339,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecongMaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data.structure.SecongMaxNumber" />
-      <module name="java-training.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data.structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="MAIN_CLASS_NAME" value="unsolved.Solution" />
       <module name="java-training.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Encoding" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.LinkedListExample" />
         <item itemvalue="Application.ArraysExamples" />
-        <item itemvalue="Application.SecongMaxNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +414,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561009756400</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added more exp">
+      <created>1562080099454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562080099454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added more exp">
+      <created>1562086311746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562086311746</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -400,8 +447,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22995462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,7 +458,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28641573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.14238952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,7 +513,8 @@
     </ignored-roots>
     <MESSAGE value="Java training first commit" />
     <MESSAGE value="Functional Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional Interface" />
+    <MESSAGE value="added more exp" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more exp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -498,7 +547,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Kachra.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -664,27 +712,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/SharedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -877,10 +904,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/intellij/IntellijExperimentsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="204">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/intellij/IntellijExperiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -894,17 +928,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/intellij/IntellijExperiments.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="278">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/intellij/IntellijExperimentsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/SharedObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/synchronize/Thread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>

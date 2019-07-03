@@ -44,10 +44,6 @@ public class BubbleSort {
 
             }
 
-
-
-
-
         return mixedArr;
     }
 
