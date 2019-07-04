@@ -6,7 +6,7 @@ public class Encoding {
         String text = "sandeep";
         String encoded = encode(text);
 
-       // System.out.println(encoded);
+        System.out.println(encoded);
 
 
 
