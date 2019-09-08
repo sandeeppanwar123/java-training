@@ -10,6 +10,7 @@ int[] numArr = {1,2,3,4,5};
         ArraysExamples arraysExamples = new ArraysExamples();
         List list = new ArrayList(Arrays.asList(arraysExamples.numArr));
 
+
         Collections.sort(list);
         Iterator itr = list.iterator();
         while (itr.hasNext())
