@@ -1,4 +1,4 @@
-package data.structure;
+package DS;
 
 import java.util.*;
 
@@ -15,19 +15,16 @@ a) 5
 b) 1
 c) 4
 d) 0
-
-
  */
 
 public class ArraysVsArrayListExamples
 {
     int numArrInt[] = {1,2,5,4,3}; //prim type
-    Integer numInteger[] = {5,1,4,3,2}; //Object Type
+        Integer numInteger[] = {5,1,4,3,2}; //Object Type
 
 
     public static void main(String[] args) {
         ArraysVsArrayListExamples arraysVsArrayListExamples = new ArraysVsArrayListExamples();
-
         List listInteger = Arrays.asList(arraysVsArrayListExamples.numInteger); //Not Converted int so Took [] as object
         List listInt = Arrays.asList(arraysVsArrayListExamples.numArrInt); //Already Object type so okay to convert.
         System.out.println("size: " +listInt.size());

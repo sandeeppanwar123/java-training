@@ -1,4 +1,7 @@
-package data.structure;
+package DS.MyDS;
+
+import java.util.Deque;
+
 /*
  *
  *
@@ -58,6 +61,7 @@ public class MyQueue<E>{
         {return true;}
         return false;
     }
+
 
 
 }
